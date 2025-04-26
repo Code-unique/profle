@@ -1,0 +1,120 @@
+Create a futuristic, interactive, and high-performance developer portfolio website for Unique Adhikari, featuring neon-inspired animations, advanced UI/UX features, and a personal touch that reflects the developer’s journey as a full-stack JavaScript developer. The website must be designed with Next.js 14+, TypeScript, Tailwind CSS, Shadcn UI, and Framer Motion/GSAP for animations. It should be fast, minimalistic, and responsive, with a custom dark/light mode toggle, adaptive neon effects, and seamless transitions.
+
+Site Requirements:
+1. Homepage:
+
+Hero Section:
+
+Animated neon welcome: "Hello, I'm <span class="text-neon">Unique Adhikari</span>"
+
+Glitch typing effect for roles: Full Stack Dev | Builder | Freelancer
+
+Parallax scrolling with section reveals.
+
+CTA buttons for GitHub, LinkedIn, WhatsApp, Resume.
+
+Subtle animated neon lines/particles in the background.
+
+2. About Me Section:
+
+Dev Timeline: Showcase Unique’s journey with milestones, projects, and future goals.
+
+Freelance Projects: Independent projects with dynamic display.
+
+Skills Cloud: Neon glow hover effects for skills and tech stack.
+
+Profile Image: Rotating 3D effect or scroll-in distortion, possibly with animated hover text or signature.
+
+3. Projects Section:
+
+GitHub Integration: Auto-fetch public repositories using GitHub API (REST/GraphQL).
+
+Filters: Allow filtering by tech stack: React, Node, Full Stack, Freelance.
+
+Project Cards: Neon-bordered, displaying name, description, tech used, GitHub link, live demo, stars, forks, and update date.
+
+Smart Search & Badge System: Let users search projects by name/tech and see badges for achievements.
+
+4. Contact Section:
+
+WhatsApp CTA: Direct link with animated hover effects.
+
+Email Form: Serverless form submission with animated feedback via Resend/NodeMailer.
+
+Social Buttons: Neatly integrated with neon outlines in light/dark mode.
+
+Footer: Animated signature with a final CTA: "Let’s build something memorable."
+
+5. Fun Zone (Visitor Engagement):
+
+Terminal Interface: Commands like whoami, skills, fun, contact.
+
+Dev Meme Viewer: Fetch memes via API.
+
+Mini Typing Game: React-based with developer quotes/snippets.
+
+Build Your Stack Game: Drag-drop game for tech stack choices (React, Node, etc.).
+
+Easter Eggs & Konami Code: Fun surprises with a theme-shifting glitch mode.
+
+6. Design & User Experience:
+
+Neon Effects: Neon-glow elements for interactive components.
+
+Responsive Design: Mobile-first, optimized for all screen sizes.
+
+Animations: Fluid scroll, magnetic buttons, custom animated cursor, scroll-to-top button with glowing trail, blur-in reveals.
+
+Light/Dark Mode: Smooth transition with adaptive neon effects based on theme.
+
+7. Performance & Deployment:
+
+Hosting on Vercel: CI/CD pipeline, custom domain portfolio.uniqueadhikari.dev.
+
+SEO Optimized: Proper SEO tags and OpenGraph setup.
+
+Performance: Achieve a Lighthouse score of 95+ across all metrics, ensuring fast loading and smooth interactivity.
+
+8. Bonus Features:
+
+Realtime Visitor Map: Optional feature showing active visitors.
+
+Achievements: Badge-style popups for milestones like “Built 10+ projects”.
+
+Voice Intro: Optional feature to play a voice intro when visiting the homepage ("Hey, I’m Unique...").
+
+Technical Requirements:
+Framework: Next.js 14+ with App Router and TypeScript
+
+Styling: Tailwind CSS + Shadcn UI + Tailwind Typography
+
+Animations: Framer Motion + GSAP for advanced transitions
+
+Dark/Light Mode: next-themes with neon effects
+
+GitHub API Integration: Fetch live data for repositories
+
+Email Integration: Use Resend/NodeMailer via API routes
+
+Image Effects: Next/Image with blur-to-clear & reveal animations
+
+Hosting: Vercel for continuous deployment and analytics
+
+Code Structure:
+Components: Home, About, Projects, Contact, FunZone, Footer
+
+Pages: /, /about, /projects, /contact
+
+Assets: Include images, icons, fonts, and custom animations
+
+Utilities: Helper functions for fetching GitHub data, handling email form submissions, and managing state for interactive features
+
+Start by scaffolding the website with the following structure:
+
+Pages: Home, About, Projects, Contact, FunZone.
+
+Components: Header, Footer, ProjectCard, AboutSection, ContactForm, MemeViewer, TypingGame, etc.
+
+Global Styles: Tailwind setup, Shadcn UI themes, and custom neon animations.
+
+Scripts: Implement Framer Motion and GSAP for advanced transitions, hover effects, and scroll interactions.

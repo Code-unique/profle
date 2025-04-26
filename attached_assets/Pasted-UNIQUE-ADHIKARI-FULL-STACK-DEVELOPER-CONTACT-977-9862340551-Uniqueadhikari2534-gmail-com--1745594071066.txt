@@ -1,0 +1,60 @@
+UNIQUE ADHIKARI
+ FULL STACK DEVELOPER
+ CONTACT
+ +977 9862340551
+ Uniqueadhikari2534@gmail.com
+ Bhaktapur, P3 44800
+ www.uniqueadhikari.com.np
+ EDUCATION
+ 2020-Present
+ NEPAL COLLEGE OF
+ INFORMATION TECHNOLOGY 
+BE. Software
+ KMC, BAGBAZAR
+ High school
+ Science Stream
+ SKILLS
+ Project Management
+ Public Relations
+ Teamwork
+ Time Management
+ Leadership
+ Effective Communication
+ Critical Thinking
+ L ANGUAGES
+ English: Fluent
+ Nepali: Fluent
+ Hindi: Basics
+ PROFILE SUMMARY
+ Innovative Full Stack Developer with a strong command of modern web
+ technologies and a passion for building impactful, user-friendly solutions.
+ Experienced in end-to-end development of web and mobile apps, blending
+ technical precision with a focus on performance and usability. A proactive
+ problem-solver with solid CS fundamentals, strong communication skills, and
+ a drive to exceed expectations in fast-paced environments.
+ WORK EXPERIENCE
+ As a freelance Full Stack Developer, I designed and built full-stack e
+commerce platforms (e.g., UANA) using the MERN stack, incorporating
+ features such as secure authentication, payment integration (PayPal,
+ Khalti), and personalized product recommendations. I developed and
+ deployed intelligent chatbot systems connected to product databases,
+ enabling human-like interactions and real-time customer support. My
+ front-end work involved crafting advanced UI/UX interfaces using
+ React, Tailwind CSS, and Shadcn UI, with a strong focus on
+ responsiveness, performance, and modern design aesthetics. On the
+ backend, I built scalable APIs with Node.js and Express, implementing
+ robust middleware for authentication, authorization, and data
+ validation.
+ I also integrated collaborative filtering and recommendation engines to
+ personalize user experiences across applications. My projects include a
+ full-featured gift recommendation system, animated product
+ carousels, and dynamic chat functionalities tailored to diverse client
+ needs. I contributed to a drowsiness detection system using Python
+ and OpenCV, demonstrating my ability to work across disciplines.
+ Additionally, I led the design and development of multi-role transport
+ platforms with Django backends, handling complex workflows and
+ real-time operations. Throughout all projects, I managed version
+ control using Git and GitHub, ensuring clean, modular, and
+ collaborative codebases. My approach always centers on
+ understanding client requirements, translating them into effective
+ technical solutions, and delivering high-quality results on time

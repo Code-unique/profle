@@ -1,0 +1,96 @@
+"Create a stunning, one-page Next.js portfolio site for Prassh that showcases his skills, projects, and unique personality in a visually striking, interactive way. The design should be modern, minimalistic, and mobile-responsive, incorporating smooth animations, transitions, and hover effects. This site should exude professionalism while also feeling approachable and fun.
+
+Features:
+Header Section:
+
+A clean, full-screen hero section with a background gradient or high-quality image/video.
+
+Display Prassh's name, a short tagline (e.g., "Full-stack Developer | Creative Thinker"), and a smooth-scroll navigation bar linking to sections like About, Skills, Projects, and Contact.
+
+Include a prominent call-to-action button ("Let's Work Together") that smoothly scrolls to the Contact section.
+
+About Section:
+
+A dynamic, engaging bio about Prassh, showcasing his background and experience in a concise yet impactful way.
+
+Display a high-quality circular photo of Prassh alongside a short introduction about his passion for coding, full-stack development, and MERN stack expertise.
+
+Use smooth fade-in effects for text and elements as the user scrolls through this section.
+
+Skills Section:
+
+Showcase Prassh's skills using animated skill bars or icons, focusing on technologies like:
+
+MERN stack (MongoDB, Express, React, Node.js)
+
+Tailwind CSS
+
+Shadcn UI
+
+JavaScript, React, Node.js, MongoDB
+
+Additional skills like JWT authentication, API development, authentication/authorization systems, multi-factor authentication, and payment integrations (PayPal, Khalti).
+
+Include interactive elements, like progress bars or hover animations for each skill, displaying proficiency levels.
+
+Projects Section:
+
+Display 3–5 of Prassh's top projects in a grid layout, each with an image, short description, and tech stack used.
+
+Highlight key projects like the UANA e-commerce platform, drowsiness detection project, and any other significant work (e.g., GitHub repositories, API development, chatbot integration, etc.).
+
+Add hover effects that reveal project details such as the project description, tech stack, and links to live projects or GitHub.
+
+Include a modal or separate page for detailed project information, including screenshot galleries or project demos.
+
+Experience/Work Section:
+
+Display Prassh's work experience or key milestones in a timeline format.
+
+Mention his contributions to projects like UANA, drowsiness detection, thrift store project, and other full-stack and front-end work.
+
+Highlight specific roles, achievements, and key projects with interactive icons and hover-to-expand details.
+
+Contact Section:
+
+A simple yet stylish contact form with fields for name, email, and message, featuring subtle animations on focus and submit.
+
+Include social media icons (LinkedIn, GitHub, etc.), each with hover effects like a color change or subtle bounce effect.
+
+Include a call-to-action button ("Get in Touch") with a smooth scroll animation leading back to the form.
+
+Footer:
+
+A clean, minimal footer with contact information (email, phone) and quick links to resume or LinkedIn profile.
+
+Keep the footer sticky for easy access as the user scrolls.
+
+Animations & Transitions:
+
+Use smooth fade-in and slide-in effects for elements as the user scrolls down.
+
+Add subtle hover animations on buttons, links, and images. Include color transitions on hover and underline effects for links.
+
+Incorporate smooth scrolling between sections to create a seamless experience.
+
+Dark/Light Mode Toggle:
+
+Add a toggle that allows users to switch between dark mode and light mode, with a smooth transition effect.
+
+SEO & Performance:
+
+Ensure the site is optimized for SEO and follows best practices for accessibility and fast performance.
+
+Use Next.js features like dynamic imports, lazy loading for images, and server-side rendering (SSR) for better speed and SEO optimization.
+
+Styling:
+Use Tailwind CSS for utility-first styling, allowing for a responsive and fast-loading design.
+
+Use Shadcn UI components for minimalistic, sleek design consistency across buttons, modals, and other UI elements.
+
+Choose modern fonts from Google Fonts for a professional look.
+
+Stick to an elegant color palette: dark blues, teals, whites, light grays, and accent colors for calls-to-action (like button hover states).
+
+This portfolio should not only highlight Prassh's skills and expertise but also create an enjoyable, smooth user experience, with engaging animations and modern design practices."
+
